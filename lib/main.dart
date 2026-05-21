@@ -361,7 +361,7 @@ class Ejercicio5 extends StatelessWidget {
             recomendacion(Icons.verified_user,
                 'Activar verificación en dos pasos'),
             recomendacion(
-                Icons.download, 'No descargar archivos desconocidos'),
+                Icons.download, 'No descargar archivos no conocidos'),
           ],
         ),
       ),
